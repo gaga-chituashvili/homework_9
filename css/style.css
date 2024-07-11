@@ -13,6 +13,12 @@
     align-items: center;
 }
 
+
+.header_burger {
+    display: none;
+}
+
+
 .header_logo {
     width: 38px;
     height: 38px;

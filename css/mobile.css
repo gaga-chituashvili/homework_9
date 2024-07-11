@@ -1,20 +1,100 @@
-
-
 /* 480px-320px */
 
 
-@media ( max-width: 376px ){
+
+/*section1*/
+
+@media (max-width: 376px) {
+
     /*section1*/
-    .section1_section{
+    .section1_section {
         width: 347px;
         height: 192px;
     }
 }
 
 
-@media (max-width: 376px){
+@media (max-width: 376px) {
+
     /*section1*/
-    .section1_img{
+    .section1_img {
         height: 431px;
     }
+}
+
+
+
+@media (max-width: 376px) {
+
+    /*section1*/
+    .section1_text {
+        font-size: 14px;
+        line-height: 22px;
+    }
+
+}
+
+
+
+@media (max-width: 376px) {
+    .section1_title {
+        font-size: 32px;
+        line-height: 40px;
+    }
+}
+
+
+
+@media (max-width: 376px) {
+
+    /*header*/
+    .header_nav {
+        display: none;
+    }
+}
+
+
+@media (max-width: 376px) {
+
+    /*header*/
+    .header_burger {
+        width: 38px;
+        height: 38px;
+        display: block;
+    }
+}
+
+
+
+@media (max-width: 376px) {
+
+    /*section2*/
+    .section2 {
+        width: calc(347 / 1440 * 100%);
+        margin: 48px 14px;
+    }
+}
+
+@media (max-width: 376px) {
+
+    /*section2*/
+    .card_section {
+        flex-direction: column;
+    }
+}
+
+
+@media (max-width: 376px){
+    .section2_title{
+        text-align: center;
+    }
+}
+
+@media (max-width:376px){
+.section2_card_text{
+    width: 315px;
+    height: 88px;
+}
+
+
 }

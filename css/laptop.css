@@ -10,3 +10,45 @@
         height: 207px;
     }
 }
+
+/*section2*/
+
+@media ( max-width: 1025px ){
+    /*section2*/
+    .section2{
+        width: calc( 840 / 1440 * 100% );
+        margin: 130px 92px;
+    }
+    }
+
+    @media ( max-width: 1025px ){
+        /*section2*/
+        .section2_article_img_article{
+           width: 408px;
+           height: 189px;
+        }
+    }
+
+
+
+    @media ( max-width:1025px){
+        /*section2*/
+        .section2_article_tree{
+            display: none;
+        }
+        }
+
+
+
+
+        /*section3*/
+
+        @media ( max-width:1025px){
+            /*section3*/
+            .section3{
+                flex
+            }
+            
+            }
+
+    
