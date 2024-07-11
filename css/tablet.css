@@ -3,3 +3,18 @@
 /* 768px-481px */
 
 
+@media ( max-width: 835px ){
+    /*section1*/
+    .section1_section{
+        width: 700px;
+        height: 207px;
+    }
+}
+
+
+@media (max-width: 835px){
+    /*section1*/
+    .section1_img{
+        height: 438px;
+    }
+}

@@ -3,3 +3,10 @@
 /* 1439px-769px */
 
 
+@media ( max-width: 1025px ){
+    /*section1*/
+    .section1_section{
+        width: 840px;
+        height: 207px;
+    }
+}

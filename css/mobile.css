@@ -1,3 +1,20 @@
 
 
 /* 480px-320px */
+
+
+@media ( max-width: 376px ){
+    /*section1*/
+    .section1_section{
+        width: 347px;
+        height: 192px;
+    }
+}
+
+
+@media (max-width: 376px){
+    /*section1*/
+    .section1_img{
+        height: 431px;
+    }
+}
