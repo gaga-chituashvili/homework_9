@@ -226,6 +226,13 @@ h7 {
     background-color: #CC5A24;
     border-style: none;
     margin-top: 111px;
+
+}
+
+.section3_button:hover {
+    box-shadow: 0 0 10px black,
+        0 0 10px black,
+        0 0 10px black;
 }
 
 
